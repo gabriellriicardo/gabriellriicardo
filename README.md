@@ -1,5 +1,5 @@
 <div align="center">
-### Iaee Galerinha!! ## 👋
+<b>### Iaee Galerinha!! ##</b> 👋
 </div>
 <div align="center">
 <img src="https://thumbs.gfycat.com/BigGraciousBoutu-size_restricted.gif" />
