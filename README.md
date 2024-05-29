@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por Programação, Bem-vindo ao meu perfil do Gi
 - 📫 Como me encontrar: gabrielricardo2803@hotmail.com.
 - ⚡ Curiosidade: doido 🤪.
 
-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriellriicardo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriellriicardo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gabriellriicardo&layout=compact&theme=radical)
 
 ```html
 
