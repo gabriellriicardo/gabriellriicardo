@@ -4,7 +4,7 @@ Sou um desenvolvedor apaixonado por Programação, Bem-vindo ao meu perfil do Gi
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em AKS de Lima Mercadinho LTDA.
+- 🔭 ...
 - 🌱 Estou aprendendo Python.
 - 👯 Estou procurando colaborar em projetos para a evolução da empresa.
 - 💬 Pergunte-me sobre [áreas de especialidade ou tecnologias que você domina].
